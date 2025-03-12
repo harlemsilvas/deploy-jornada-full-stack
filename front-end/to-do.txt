@@ -1,0 +1,13 @@
+- Construi a API - ok
+- Conexão com o Banco de dados - ok
+- Conectar o Front com o Back 
+- Lógicas do Player
+- GitHub e Deploy
+
+cd back-end
+npm init -i
+npm i express
+
+node --watch .\api\server.js
+
+
